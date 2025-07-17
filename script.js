@@ -113,8 +113,8 @@ b = "10"
 //  Factorial of a number , 
 //  reverse of a number 1234, 4321
 
-// let  i = 0
-// do{
-//     console.log(i)
-//     i++
-// }while(i<10)
+let  i = 0
+do{
+    console.log(i)
+    i++
+}while(i<10)
